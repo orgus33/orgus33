@@ -3,8 +3,8 @@
 - 👀 I am interested in computer programming and cybersecurity.
 - 🌱 I'm currently learning PHP, HTML, CSS, JavaScript, python, cybersecurity tools to test the protection of a machine (nmap, dirbuster, gobuster, hydra,...) and Kotlin for android apps.
 - 📞 Contact me :
-  * (discord) : Bastien#2536
-  * (mail) :  bastien.b200405@gmail.com          
+  * discord : Bastien#2536
+  * mail :  bastien.b200405@gmail.com          
 
 
 [🇫🇷]
